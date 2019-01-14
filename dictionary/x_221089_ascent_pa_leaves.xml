@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Leaves" max_length="40" name="x_221089_ascent_pa_leaves" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Leave Count" max_length="40" name="leave_count" type="integer"/>
+    </element>
+</database>
